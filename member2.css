@@ -1,0 +1,51 @@
+body {
+    background-color: #f0f0f0; 
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center; 
+}
+
+.profile-card {
+    background-color: rgb(253, 253, 253); 
+    border: 1px solid #000000; 
+    border-radius: 10px;    
+    padding: 50px; 
+    margin: 30px auto; 
+    width: 260px; 
+    box-shadow: 0 2px 30px rgba(0, 0, 0, 0.1); 
+    text-align: center; 
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.profile-card img {
+    background-color: #000000;
+    height: 600%;
+    width: 50%; 
+    border-radius: 10%; 
+    border: 2px solid #080707; /
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-variant: small-caps; 
+}
+
+.profile-card h1 {
+    font-size: 20px; 
+    font-weight: bold; 
+}
+
+.profile-card .occupation,
+.profile-card .address,
+.profile-card .quote,
+.profile-card .contact-number,
+.profile-card .email {
+    font-size: 15px; 
+    margin: 7px 0; 
+    text-align: center; 
+}
