@@ -10,11 +10,11 @@ body {
     align-items: center;
     height: 100vh;
     background-color: #1A1A19;
-    font-family: Arial, sans-serif;
+    font-family: sans-serif;
 }
 
 .profile-card {
-    background-color: #091057;
+    background-color:#608BC1;
     width: 300px;
     padding: 20px;
     border: 2px solid #ddd;
